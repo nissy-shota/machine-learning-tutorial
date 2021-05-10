@@ -4,5 +4,7 @@
 - Linear Regression
 - Logistic Regression
 
+## 資料
+
 # reference
 - https://github.com/hhachiya/MLBook
